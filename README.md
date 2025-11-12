@@ -2,13 +2,6 @@
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
-If you want to learn more about DevOps, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
-
-## Support My Work
-
-If you find this repository helpful, consider supporting me on Patreon:
-
-[![Patreon](patreon.png)](https://www.patreon.com/techworld_with_milan)
 
 ## Disclaimer
 
@@ -18,7 +11,6 @@ If you find this repository helpful, consider supporting me on Patreon:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=milanm/DevOps-Roadmap&type=Date)](https://www.star-history.com/#milanm/DevOps-Roadmap&Date)
 
 ## DevOps Roadmap
 
